@@ -1,4 +1,4 @@
-import { Element, Link as LinkScroll } from "react-scroll";
+import { Element,  } from "react-scroll";
 import Button from "../components/Button.jsx";
 
 const Hero = () => {
@@ -17,7 +17,7 @@ const Hero = () => {
                             Submit your topic, choose your tier, and let Xora handle the rest. Your success, our mission. .
                         </p>
 
-                            <Button href="#" icon="/images/zap.svg">Try it now</Button>
+                            <Button href="#" icon="/images/zap.svg">Contact Now</Button>
 
                     </div>
 

@@ -77,32 +77,27 @@ export const faq = [
         answer:
             'We accept major Payment apps, Upi,Cash Of Delivery, and other secure online payment methods.',
     },
+
     {
         id: '5',
-        question: 'What happens when I’m out of storage?',
-        answer:
-            'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
-    },
-    {
-        id: '6',
         question: 'Can I track the progress of my assignment?',
         answer:
             'Yes, you can track updates through our platform and communicate with your assigned expert for any clarifications.',
     },
     {
-        id: '7',
+        id: '6',
         question: 'Do you offer refunds if I am not satisfied?',
         answer:
             'Yes, we have a refund policy for cases where the delivered work doesn’t meet the agreed-upon standards.',
     },
     {
-        id: '8',
+        id: '7',
         question: 'What’s the difference between the pricing tiers?',
         answer:
             'Our tiers differ in complexity, delivery speed, and additional features like revision limits and research quality.',
     },
     {
-        id: '9',
+        id: '8',
         question: 'Are the assignments plagiarism-free?',
         answer:
             'Yes, all assignments undergo rigorous plagiarism checks to ensure originality and quality.',

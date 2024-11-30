@@ -82,7 +82,7 @@ const Header = () => {
                                 <li className="nav-li">
                                     <NavLink title="faq" />
                                     <div className="dot" />
-                                    <a className="text-xl font-bold"  href="https://youtube.com"> Contact</a>
+                                    <a className="text-xl font-bold hover:text-p1"  href="https://youtube.com"> Contact</a>
                                 </li>
                             </ul>
                         </nav>

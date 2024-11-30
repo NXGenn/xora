@@ -143,7 +143,7 @@ const Pricing = () => {
                                 </ul>
 
                                 <div className="mt-10 flex w-full justify-center">
-                                    <Button href="https://www.youtube.com/" icon={plan.icon}>Get Started</Button>
+                                    <Button href="https://www.youtube.com/" icon={plan.icon}>Contact Now</Button>
                                 </div>
 
                                 {index === 1 && (
