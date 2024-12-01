@@ -67,7 +67,7 @@ export const faq = [
     },
     {
         id: '3',
-        question: 'Can I request revisions?',
+        question: 'Can I request revisions? ',
         answer:
             'Yes, revisions are included based on your chosen pricing tier. Premium users enjoy unlimited revisions for perfection.',
     },
